@@ -23,5 +23,5 @@ I'm a theoretical physicist, native from Mexico City 🌶
 I currently work as a Senior Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/), in Munich, Germany.
 My work is focused mainly on theory aspects of Quantum Characterization, Verification & Validation (QCVV).
 
-I'm a [cycling enthusiast](www.strava.com/athletes/pedrofigro) and [ex-guitar player](https://youtu.be/8FZgNRJ9QJY) turned amateur mandolin player.
+I'm a [cycling enthusiast](https://www.strava.com/athletes/pedrofigro) and [ex-guitar player](https://youtu.be/8FZgNRJ9QJY) turned amateur mandolin player.
 I also used to take some [cool street photography](https://www.flickr.com/photos/pedrofigrom/) shots!
