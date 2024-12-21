@@ -9,7 +9,8 @@ profile:
   image: pedro.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Senior Quantum Engineer at <a href='https://www.meetiqm.com/'>IQM Quantum Computers</a>.</p>
+    <p>Senior Quantum Engineer</p>
+    <p><a href='https://www.meetiqm.com/'>IQM Quantum Computers</a></p>
     <p>Munich, Germany</p>
 
 news: true # includes a list of news items
