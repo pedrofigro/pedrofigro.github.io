@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a theoretical physicist, native from Mexico City :hot_pepper: 🥑 :mexico:
+I'm a theoretical physicist, native from Mexico City :hot_pepper: 🥑 :corn:
 
 I currently work as a Senior Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/), in Munich, Germany.
 My work is focused mainly on theory aspects of Quantum Characterization, Verification & Validation (QCVV).
