@@ -8,12 +8,14 @@ profile:
   align: right
   image: pedro.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
+  more_info: 
+    <center>
     <p>Senior Quantum Engineer</p>
     <p><a href='https://www.meetiqm.com/'>IQM Quantum Computers</a></p>
     <p>Munich, Germany</p>
+    </center>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
