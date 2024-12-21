@@ -46,8 +46,30 @@
       "studyType": "PhD",
       "startDate": "04/2017",
       "endDate": "02/2021",
-      "thesis": "Equilibration and Typicality in Quantum Processes",
-      "supervision": "Kavan Modi & Felix A. Pollock"
+      "summary": "Research on Equilibration and Typicality in Quantum Processes",
+      "highlights": ["Supervision: Prof. Kavan Modi & Dr. Felix A. Pollock"]
+    },
+    {
+      "institution": "The University of Edinburgh",
+      "location": "Edinburgh, Scotland",
+      "url": "https://www.ph.ed.ac.uk/",
+      "area": "Physics and Astronomy",
+      "studyType": "MSc",
+      "startDate": "09/2015",
+      "endDate": "05/2016",
+      "summary": "Feynman diagram generation for color-kinematics duality",
+      "highlights": ["Supervision: Prof. Donal O'Connell"]
+    },
+    {
+      "institution": "Universidad Aut'{o}noma Metropolitana",
+      "location": "Mexico City, M\'{e}xico",
+      "url": "https://www.uam.mx/",
+      "area": "Physics and Astronomy",
+      "studyType": "BSc",
+      "startDate": "09/2010",
+      "endDate": "09/2014",
+      "summary": "La geometr\'{i}a de los espacios (A)dS",
+      "highlights": ["Supervision: Prof. Rom\'{a}n Linares Romero"]
     }
   ]
 }
