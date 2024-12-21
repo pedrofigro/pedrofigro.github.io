@@ -11,7 +11,7 @@ profile:
   more_info: 
     <center>
     <p>Senior Quantum Engineer</p>
-    <p><a href='https://www.meetiqm.com/'>IQM Quantum Computers</a></p>
+    <p>IQM Quantum Computers</p>
     <p>Munich, Germany</p>
     </center>
 
