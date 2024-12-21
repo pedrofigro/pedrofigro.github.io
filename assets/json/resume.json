@@ -3,15 +3,9 @@
     "name": "Pedro Figueroa Romero",
     "label": "Theoretical Physicist / Quantum Information Scientist",
     "image": "",
-    "email": "pedrofigueroarom[at]gmail.com",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "pedrofigueroarom@gmail.com"
   },
+
   "work": [
     {
       "name": "IQM Quantum Computers",
