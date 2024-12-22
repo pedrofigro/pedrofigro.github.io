@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Pedro Figueroa Romero",
-    "label": "Theoretical Physicist / Quantum Information Scientist",
+    "summary": "Theoretical Physicist / Quantum Information Scientist",
     "image": "",
     "email": "pedrofigueroarom@gmail.com"
   },
@@ -70,6 +70,28 @@
       "endDate": "2014-09",
       "courses": ["Thesis: La geometría de los espacios (A)dS",
       "Supervision: Prof. Román Linares Romero"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate (B2)",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic/Intermediate (B1)",
+      "icon": ""
     }
   ]
 }
