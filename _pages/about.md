@@ -25,7 +25,10 @@ I'm a theoretical physicist, native from Mexico City :hot_pepper: 🥑 :corn:
 I currently work as a Senior Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/), in Munich, Germany.
 My work is focused mainly on theory aspects of Quantum Characterization, Verification & Validation (QCVV).
 Together with colleagues at IQM, I initiated the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://github.com/iqm-finland/iqm-benchmarks).
-You can see details of my professional background in the CV tab above :scroll:
-
-I'm a [cycling enthusiast](https://www.strava.com/athletes/pedrofigro) and [ex-guitar player](https://youtu.be/8FZgNRJ9QJY) turned amateur mandolin player.
+I'm unofficially a [cycling enthusiast](https://www.strava.com/athletes/pedrofigro) and [ex-guitar player](https://youtu.be/8FZgNRJ9QJY) turned mandolin player.
 I also used to do some [street photography](https://www.flickr.com/photos/pedrofigrom/) !
+
+<ul style="list-style-type:none;">
+    <li>:black_nib: You can find a list of the papers I've been involved in the [Publications](https://pedrofigro.github.io/publications/) tab.</li>
+    <li>:scroll: You can see details of my professional background in the [CV](https://pedrofigro.github.io/cv/) tab.</li>
+</ul>
