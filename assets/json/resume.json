@@ -72,6 +72,25 @@
       "Supervision: Prof. Román Linares Romero"]
     }
   ],
+  "teaching": [
+    {
+      "organization": "Foxconn Technology Group",
+      "location": "Taipei, Taiwan",
+      "position": "Project supervisor",
+      "startDate": "2021-09",
+      "endDate": "2022-04",
+      "summary": "Leading project with Mr. Shih-Xian Yang (currently PhD candidate at INFN in Bari, Italy)",
+      "highlights": ["Inverstigating application of machine learning with tensor network techniques for randomized benchmarking."]
+    },
+    {
+      "organization": "Monash University",
+      "location": "Melbourne, Australia",
+      "position": "Teaching Associate",
+      "startDate": "2017-11",
+      "endDate": "2020-07",
+      "summary": "Tutoring, planning and marking for undergraduate physics courses."
+    }
+  ],
   "languages": [
     {
       "language": "Spanish",
