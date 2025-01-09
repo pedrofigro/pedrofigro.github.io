@@ -27,7 +27,7 @@ My work is focused mainly on theory aspects of Quantum Characterization, Verific
 Together with colleagues at IQM, I initiated the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://github.com/iqm-finland/iqm-benchmarks).
 On this site, I will update mainly my professional information.
 
-:classical_building: My main education background:
+:classical_building: My main educational background:
 
 - PhD (Quantum Information Science), [Monash University](https://www.monash.edu/science/schools/physics), :australia: (2021).
 - MSc (Mathematical Physics), [The University of Edinburgh](https://www.ph.ed.ac.uk/), :gb: (2016).
