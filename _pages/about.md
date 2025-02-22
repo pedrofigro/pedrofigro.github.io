@@ -24,7 +24,9 @@ social: true # includes social icons at the bottom of the page
 
 :man_technologist: I currently work as a Senior Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/), in Munich, Germany.
 My work is focused mainly on theory aspects of Quantum Characterization, Verification & Validation (QCVV).
-Together with colleagues at IQM, I initiated the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://github.com/iqm-finland/iqm-benchmarks).
+
+:mag_right: Together with colleagues at IQM, I initiated the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://github.com/iqm-finland/iqm-benchmarks).
+
 On this site, I will update mainly my professional information.
 
 :classical_building: My main educational background:
