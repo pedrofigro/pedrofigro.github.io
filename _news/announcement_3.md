@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:airplane: I will be moving on from IQM in May 2025; I remain reachable by personal email :kangaroo:
+:airplane: I will be joining Silicon Quantum Computing (SQC) in June 2025 :kangaroo:
