@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:airplane: I will be moving on from IQM in May 2025 :koala:
+:airplane: I will be moving on from IQM in May 2025; I remain reachable by personal email :kangaroo:
