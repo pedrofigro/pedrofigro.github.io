@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 :wave: I'm Pedro (he/him), a theoretical physicist native from Mexico City :hot_pepper: 🥑 :corn:
 
 :man_technologist: I currently work as a Senior Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/), in Munich, Germany.
-My work is focused mainly on theory aspects of Quantum Characterization, Verification & Validation (QCVV).
+My work focuses mainly on theory aspects of Quantum Characterization, Verification & Validation (QCVV).
 
 :mag_right: Together with colleagues at IQM, I initiated the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://iqm-finland.github.io/iqm-benchmarks/).
 
