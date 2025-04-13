@@ -9,11 +9,11 @@ profile:
   image: pedro.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
-    <center>
-    <p>Senior Quantum Engineer</p>
-    <p>IQM Quantum Computers</p>
-    <p>Munich, Germany</p>
-    </center>
+    # <center>
+    # <p>Senior Quantum Engineer</p>
+    # <p>IQM Quantum Computers</p>
+    # <p>Munich, Germany</p>
+    # </center>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,18 +22,18 @@ social: true # includes social icons at the bottom of the page
 
 :wave: I'm Pedro (he/him), a theoretical physicist native from Mexico City :hot_pepper: 🥑 :corn:
 
-:man_technologist: I currently work as a Senior Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/), in Munich, Germany.
-My work focuses mainly on theory aspects of Quantum Characterization, Verification & Validation (QCVV).
+:man_technologist: Particularly, I'm a quantum information scientist, and my primary focus is in theory aspects of [Quantum Characterization, Verification & Validation (QCVV)](https://arxiv.org/abs/2503.16383):
 
-:mag_right: Together with colleagues at IQM, I initiated the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://iqm-finland.github.io/iqm-benchmarks/).
+- 06/2025 I will join [Silicon Quantum Computing (SQC)](https://sqc.com.au/), in Sydney :australia:
+- 05/2022 to 05/2025 as Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/), in Munich :de:
+- 03/2021 to 04/2022 as Postdoctoral Research Associate at [Foxconn Technology Group](https://www.honhai.com/en-us/rd-and-technology/institute), in Taipei :taiwan:
+- 04/2017 to 02/2021 earned my PhD (Quantum Information Science) at [Monash University](https://www.monash.edu/science/schools/physics), :australia:
+- 09/2015 to 09/2016 earned my MSc (Mathematical Physics) at [The University of Edinburgh](https://www.ph.ed.ac.uk/), :gb:
+- 09/2010 to 09/2014 earned my BSc (Physics) at [Universidad Autónoma Metropolitana](https://www.comunicacionsocial.uam.mx/lang/eng/index.html), :mexico: (2014)
 
-On this site, I will update mainly my professional information.
+:mag_right: Together with colleagues at IQM, I spearheaded the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://iqm-finland.github.io/iqm-benchmarks/).
 
-:classical_building: My main educational background:
-
-- PhD (Quantum Information Science), [Monash University](https://www.monash.edu/science/schools/physics), :australia: (2021).
-- MSc (Mathematical Physics), [The University of Edinburgh](https://www.ph.ed.ac.uk/), :gb: (2016).
-- BSc (Physics), [Universidad Autónoma Metropolitana](https://www.comunicacionsocial.uam.mx/lang/eng/index.html), :mexico: (2014).
+:briefcase: On this site, I will update mainly my professional information.
 
 :black_nib: Find a list of the papers I've been involved in at the [Publications](https://pedrofigro.github.io/publications/) tab.
 
