@@ -24,12 +24,12 @@ social: true # includes social icons at the bottom of the page
 
 :man_technologist: Particularly, I'm a quantum information scientist, and my primary focus is in theory aspects of [Quantum Characterization, Verification & Validation (QCVV)](https://arxiv.org/abs/2503.16383):
 
-- 06/2025 I will join [Silicon Quantum Computing (SQC)](https://sqc.com.au/), in Sydney :australia:
-- 05/2022 to 05/2025 as Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/), in Munich :de:
-- 03/2021 to 04/2022 as Postdoctoral Research Associate at [Foxconn Technology Group](https://www.honhai.com/en-us/rd-and-technology/institute), in Taipei :taiwan:
-- 04/2017 to 02/2021 earned my PhD (Quantum Information Science) at [Monash University](https://www.monash.edu/science/schools/physics), :australia:
-- 09/2015 to 09/2016 earned my MSc (Mathematical Physics) at [The University of Edinburgh](https://www.ph.ed.ac.uk/), :gb:
-- 09/2010 to 09/2014 earned my BSc (Physics) at [Universidad Autónoma Metropolitana](https://www.comunicacionsocial.uam.mx/lang/eng/index.html), :mexico: (2014)
+- (06/2025) I will join [Silicon Quantum Computing (SQC)](https://sqc.com.au/) in Sydney :australia:
+- (2022—05/2025) Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/) in Munich :de:
+- (2021—2022) Postdoc at [Foxconn Technology Group](https://www.honhai.com/en-us/rd-and-technology/institute), in Taipei :taiwan:
+- (2017—2021) PhD (Quantum Information Science) at [Monash University](https://www.monash.edu/science/schools/physics), Melbourne :australia:
+- (2015—2016) MSc (Mathematical Physics) at [The University of Edinburgh](https://www.ph.ed.ac.uk/), Scotland :gb:
+- (2010—2014) BSc (Physics) at [Universidad Autónoma Metropolitana](https://www.comunicacionsocial.uam.mx/lang/eng/index.html), CDMX :mexico:
 
 :mag_right: Together with colleagues at IQM, I spearheaded the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://iqm-finland.github.io/iqm-benchmarks/).
 
