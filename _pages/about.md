@@ -27,9 +27,9 @@ social: true # includes social icons at the bottom of the page
 - [06/2025] Will join [Silicon Quantum Computing (SQC)](https://sqc.com.au/) in Sydney :australia:
 - [2022—05/2025] Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/) in Munich :de:
 - [2021—2022] Postdoc at [Foxconn Technology Group](https://www.honhai.com/en-us/rd-and-technology/institute), in Taipei :taiwan:
-- [2017—2021] PhD at [Monash University](https://www.monash.edu/science/schools/physics), Melbourne :australia:
-- [2015—2016] MSc at [The University of Edinburgh](https://www.ph.ed.ac.uk/), Scotland :gb:
-- [2010—2014] BSc at [Universidad Autónoma Metropolitana](https://www.comunicacionsocial.uam.mx/lang/eng/index.html), CDMX :mexico:
+- [2017—2021] PhD at [Monash University](https://www.monash.edu/science/schools/physics) in Melbourne :australia:
+- [2015—2016] MSc at [The University of Edinburgh](https://www.ph.ed.ac.uk/) in Scotland :gb:
+- [2010—2014] BSc at [Universidad Autónoma Metropolitana](https://www.comunicacionsocial.uam.mx/lang/eng/index.html) in CDMX :mexico:
 
 :mag_right: Together with colleagues at IQM, I spearheaded the development of a Python package for QCVV, now open-sourced as [IQM Benchmarks](https://iqm-finland.github.io/iqm-benchmarks/).
 
