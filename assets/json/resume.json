@@ -8,10 +8,20 @@
 
   "work": [
     {
+      "name": "Silicon Quantum Computing",
+      "position": "QCVV Scientist",
+      "startDate": "2025-05",
+      "endDate": "Present",
+      "summary": "Development, testing and implementation of noise characterisation and mitigation strategies on near-term silicon quantum computers.",
+      "highlights": [
+      ],
+      "location": "Sydney, Australia"
+    },
+    {
       "name": "IQM Quantum Computers",
       "position": "(Senior) Quantum Engineer",
       "startDate": "2022-05",
-      "endDate": "Present",
+      "endDate": "2025-05",
       "summary": "Scientific research, collaborative coding, technical guidance and mentoring, and advising strategic decisions regarding full-stack benchmarks and benchmarking standards",
       "highlights": [
         "Quantum Characterization, Verification and Validation (QCVV) theory and implementation.",

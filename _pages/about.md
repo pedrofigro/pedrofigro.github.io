@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 
 :man_technologist: Particularly, I'm a quantum information scientist, and my primary focus is in theory aspects of [Quantum Characterization, Verification & Validation (QCVV)](https://arxiv.org/abs/2503.16383). My professional background includes:
 
-- [06/2025] Will join [Silicon Quantum Computing (SQC)](https://sqc.com.au/) in Sydney :australia:
+- [05/2025] Will join [Silicon Quantum Computing (SQC)](https://sqc.com.au/) in Sydney :australia:
 - [2022—05/2025] Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/) in Munich :de:
 - [2021—2022] Postdoc at [Foxconn Technology Group](https://www.honhai.com/en-us/rd-and-technology/institute), in Taipei :taiwan:
 - [2017—2021] PhD at [Monash University](https://www.monash.edu/science/schools/physics) in Melbourne :australia:
