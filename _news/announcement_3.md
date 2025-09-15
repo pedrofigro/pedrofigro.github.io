@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:airplane: I will be joining Silicon Quantum Computing (SQC) in ~~June~~ mid-April 2025 :kangaroo:
+:airplane: I will be joining Silicon Quantum Computing (SQC) in ~~June~~ May 2025 :kangaroo:
