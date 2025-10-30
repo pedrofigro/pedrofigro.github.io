@@ -22,10 +22,10 @@ social: true # includes social icons at the bottom of the page
 
 :wave: I'm Pedro (he/him), a theoretical physicist native from Mexico City :hot_pepper: 🥑 :corn:
 
-:man_technologist: Particularly, I'm a quantum information scientist, and my primary focus is in theory aspects of [Quantum Characterization, Verification & Validation (QCVV)](https://arxiv.org/abs/2503.16383). My professional background includes:
+:man_technologist: Particularly, I'm a quantum information scientist, and my primary focus is theory aspects of [Quantum Characterization, Verification & Validation (QCVV)](https://arxiv.org/abs/2503.16383). My professional background includes:
 
-- [from 05/2025] QCVV Scientist at [Silicon Quantum Computing (SQC)](https://sqc.com.au/) in Sydney :australia:
-- [2022—05/2025] Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/) in Munich :de:
+- [2025—&nbsp;&nbsp;&nbsp;&nbsp;] QCVV Scientist at [Silicon Quantum Computing (SQC)](https://sqc.com.au/) in Sydney :australia:
+- [2022—2025] Quantum Engineer at [IQM Quantum Computers](https://www.meetiqm.com/) in Munich :de:
 - [2021—2022] Postdoc at [Foxconn Technology Group](https://www.honhai.com/en-us/rd-and-technology/institute), in Taipei :taiwan:
 - [2017—2021] PhD at [Monash University](https://www.monash.edu/science/schools/physics) in Melbourne :australia:
 - [2015—2016] MSc at [The University of Edinburgh](https://www.ph.ed.ac.uk/) in Scotland :gb:
@@ -39,5 +39,5 @@ social: true # includes social icons at the bottom of the page
 
 :scroll: Find details of my professional background in the [CV](https://pedrofigro.github.io/cv/) tab.
 
-:sparkles: Currently, I'm also a [cycling enthusiast](https://www.strava.com/athletes/pedrofigro) and [ex-guitar player](https://youtu.be/8FZgNRJ9QJY) turned mandolin player.
+:sparkles: I'm also a [cycling enthusiast](https://www.strava.com/athletes/pedrofigro) and enjoy [playing the guitar](https://youtu.be/8FZgNRJ9QJY) and the mandolin.
 I also enjoy [street photography](https://www.flickr.com/photos/pedrofigrom/) !
