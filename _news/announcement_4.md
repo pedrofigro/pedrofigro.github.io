@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-date: 2025-12-25 12:45:00-0000
+date: 2025-11-29 12:45:00-0000
 inline: true
 related_posts: false
 ---
