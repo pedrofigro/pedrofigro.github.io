@@ -39,5 +39,6 @@ social: true # includes social icons at the bottom of the page
 
 :scroll: Find details of my professional background in the [CV](https://pedrofigro.github.io/cv/) tab.
 
-:sparkles: I'm also a [cycling enthusiast](https://www.strava.com/athletes/pedrofigro) and enjoy [playing the guitar](https://youtu.be/8FZgNRJ9QJY) and the mandolin.
-I also enjoy [street photography](https://www.flickr.com/photos/pedrofigrom/) !
+:notebook_with_decorative_cover: I will also spontaneously write notes related to my interests in the [blog](https://pedrofigro.github.io/blog/) tab. I used to do this back in the day in this [blogspot page](https://pedrofigro.blogspot.com/).
+
+:sparkles: I'm also a [cycling enthusiast](https://www.strava.com/athletes/pedrofigro), enjoy [playing the (electric) guitar](https://youtu.be/8FZgNRJ9QJY), and I tried my hand at some point at [street photography](https://www.flickr.com/photos/pedrofigrom/) !
