@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A brief announcement
+title: SQC
 date: 2025-02-22 07:55:00-0000
 inline: true
 related_posts: false

@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: pedrofigro # blog_name will be displayed in your blog page
-blog_description: Blog for Dr. Pedro Figueroa-Romero
+blog_description: Notes and sundry ideas
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
