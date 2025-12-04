@@ -2,7 +2,7 @@
 layout: post
 title: Uncertainties in RB
 date: 2025-03-26 14:24:00
-description: Cause if you like it, then you shoulda put an error bar on it
+description: Cause if you like it, then you shoulda put uncertainties on it
 tags: randomised benchmarking
 categories: benchmarking
 ---
