@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uncertainties in RB
-date: 2025-03-26 14:24:00
+date: 2025-12-02 14:24:00
 description: Cause if you like it, then you shoulda put uncertainties on it
 tags: randomised benchmarking
 categories: benchmarking
@@ -43,14 +43,26 @@ URB estimates how unitary the noise is, with a fidelity-like measure, on average
 
 Running Clifford RB alongside URB highlights differences: two noise models with the same fidelity—one dominated by stochastic errors, the other by coherent errors—produce starkly different decays. The coherent case exhibits higher unitarity.
 
-<div class="row mt-3"><div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/purity_stoch.png" class="img-fluid rounded z-depth-1" zoomable=true %}</div><div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/purity_coherent.png" class="img-fluid rounded z-depth-1" zoomable=true %}</div></div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/purity_stoch.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/purity_coherent.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ### IIRB
 IIRB tweaks Interleaved RB by interleaving the gate of interest multiple times and examining the estimated fidelities. First proposed in [arXiv:1504.06597](https://arxiv.org/abs/1504.06597), it was later used in [IQM’s demonstration](https://arxiv.org/abs/2508.16437) of native two-qubit gates with fidelities above 99.9%.  
 
 The principle is simple: fidelity should decay linearly with the number of interleavings, equal to the slope of decay. If it decays faster, errors are accumulating more severely than expected under stochastic noise. Simulation with models as above for URB show a clear difference between stochastic and coherent noise.
 
-<div class="row mt-3"><div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/iirb_stochastic.png" class="img-fluid rounded z-depth-1" zoomable=true %}</div><div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/iirb_coherent.png" class="img-fluid rounded z-depth-1" zoomable=true %}</div><div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/iirb_slopes.png" class="img-fluid rounded z-depth-1" zoomable=true %}</div></div
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/iirb_stochastic.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/iirb_coherent.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/iirb_slopes.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div
 
 ---
 
