@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Uncertainties in RB
-date: 2025-12-02 07:55:00-0000
-description: Cause if you like it, then you shoulda put uncertainties on it
+date: 2025-11-02 07:55:00
+description: 
 tags: randomised benchmarking
 categories: benchmarking
 ---
