@@ -21,7 +21,7 @@ Both claims are conditional. The first depends on whether the average noise [app
 
 ---
 
-## Reading Between the Lines of RB Data
+## Reading between the lines of RB Data
 
 Beyond these headline results, RB outputs contain subtler information about the average noise.  
 
@@ -66,9 +66,9 @@ The principle is simple: fidelity should decay linearly with the number of inter
 
 ---
 
-## Why Coherence Matters
+## Why coherence matters
 
-Ironically, when survival probability distributions are presented, they often resemble the coherent case. This is significant because coherence in noise impacts:  
+Ironically, when survival probability distributions are presented at several sequence lengths, they often resemble the coherent case. This is significant because coherence in noise impacts:  
 1. **Fault-tolerance thresholds**  
 2. **Error accumulation over time**
 
