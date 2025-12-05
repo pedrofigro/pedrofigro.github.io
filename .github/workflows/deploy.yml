@@ -103,7 +103,7 @@ jobs:
         run: |
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
-          bundle exec jekyll build
+            bundle exec jekyll build --trace --verbose
       - name: Upload _site artifact 📦
         if: always()
         uses: actions/upload-artifact@v4
