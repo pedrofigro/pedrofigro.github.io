@@ -19,20 +19,20 @@ Within the broader community, however, RB is often associated with some *folk cl
 - RB always produces an exponential decay from which fidelity can be extracted.  
 - The Clifford group is always a 2-design.  
 
-Both claims are conditional. The first depends on whether the average noise [approximately satisfies certain assumptions](https://arxiv.org/abs/1109.6887). The second depends on the [dimensionality of the group](https://arxiv.org/abs/2108.04200).
+But both claims are conditional. The first depends on whether the average noise [approximately satisfies certain assumptions](https://arxiv.org/abs/1109.6887). The second depends on the [dimensionality of the group](https://arxiv.org/abs/2108.04200).
 
 ---
 
 ## Reading between the lines of RB Data
 
-Beyond these headline results, RB outputs contain subtler information about the average noise.  
+Related to these, RB outputs can contain subtler information about the average noise within:
 
-- **Exponential decay of the averages:** If the average survival probabilities at chosen sequence lengths do not follow an exponential decay, one should proceed with caution. Questions arise: *How many outliers are there? Are enough sequence lengths sampled? Should more circuits be run? Is there a quantitative measure of the deviations?*  
-- **Distribution of survival probabilities:** Even when averages fit an exponential decay, the distribution of individual survival probabilities at fixed sequence lengths can reveal the nature of the noise. Error bars (often the [standard error](https://en.wikipedia.org/wiki/Standard_error) of the mean) are useful, but they may conceal skewness or outliers.
+- **The functional decay of the averages:** If the average survival probabilities at chosen sequence lengths do not follow an exponential decay, one should proceed with caution. Questions arise: *How many outliers are there? Are enough sequence lengths sampled? Should more circuits be run? Is there a quantitative measure of the deviations?*  
+- **The distribution of the survival probabilities:** Even when averages fit an exponential decay, the distribution of individual survival probabilities at fixed sequence lengths can reveal the nature of the noise. Error bars (often the [standard error](https://en.wikipedia.org/wiki/Standard_error) of the mean) are useful, but they may conceal skewness or outliers.
 
-The key point is that *minimally processed data*—individual survival probabilities—can already indicate whether something could be more seriously wrong (non-exponential behavior, skewed distributions, big outliers). Moreover, the variance of these probabilities at each sequence length is related to the purity of the outputs, which in turn provides qualitative insight into the [*unitarity*](https://arxiv.org/abs/1503.07865)—a measure of how unitary the noise channel is.  
+The key point is that *minimally* processed data from RB —individual survival probabilities—can already indicate whether something could be more seriously wrong (non-exponential behavior, skewed distributions, big outliers). Moreover, the variance of these probabilities at each sequence length is related to the purity of the outputs, which in turn provides qualitative insight into the [*unitarity*](https://arxiv.org/abs/1503.07865)—a measure of how unitary the noise channel is.  
 
-This matters because it affects how much confidence one can place in the reported fidelity. Importantly, I’m not referring to the uncertainty in the final fitted number (which depends on the fitting procedure and its assumptions). Rather, I mean the uncertainty inherent in each average point at every chosen sequence length.
+This matters because it affects how much confidence one can place in the reported fidelity. Importantly, I’m not referring to the uncertainty in the final fitted number (which depends on the fitting procedure and its assumptions). Rather, I mean the uncertainty inherent in each average point at every chosen sequence length. An intuitive way of thinking about this is that *i*) the spread of individual survival probabilities at fixed sequence length relates to the variance of the survival probabilities given your random Clifford sequence samples, which in turn *ii*) relates to how much the output states are getting probabilistically mixed, which then *iii*) roughly points to how *non-unitary* or *dissipative* the noise is.
 
 ---
 
