@@ -7,6 +7,8 @@ tags: randomised benchmarking
 categories: benchmarking
 ---
 
+# Uncertainties in RB
+
 During my BSc in Physics (*Licenciatura en Física*), I was always frustrated by the experimental courses—not because of the experiments themselves, but because of the analysis afterwards. Worst of all was dealing with statistics and numerical uncertainties! Ironically, those very tools later became central to my career.
 
 Fast forward to the end of my PhD: I entered the quantum computing world through the technique now widely known as [Randomised Benchmarking](https://en.wikipedia.org/wiki/Randomized_benchmarking), or simply RB. Within the quantum computing community—hardware engineers and theorists alike—RB is regarded as *the* standard method for estimating gate fidelities. Of course, there are other approaches, but RB remains the primary tool for this purpose.
@@ -36,7 +38,7 @@ This matters because it affects how much confidence one can place in the reporte
 
 ## Examples: URB and IIRB
 
-Two protocols illustrate these ideas clearly: **Unitarity RB (URB)** and **Iterative Interleaved RB (IIRB).**
+Two protocols illustrate these ideas clearly: *Unitarity RB (URB)* and *Iterative Interleaved RB (IIRB).*
 
 ### URB
 URB estimates how unitary the noise is, with a fidelity-like measure, on average. It modifies standard Clifford RB by requiring measurements in all Pauli bases (effectively tomography for each circuit sample). Introduced in [arXiv:1503.07865](https://arxiv.org/abs/1503.07865), URB also formalised the definition of *unitarity*. In our own work ([arXiv:2409.02110](arXiv:2409.02110)), we extended URB and derived an upper bound for the unitarity of Pauli noise in terms of fidelity. Depolarizing noise achieves the lowest possible unitarity, while purely unitary channels have unitarity 1 - we *bridged* that gap so that you can tell whether the unitarity is close to that of purely stochastic noise (between upper-bound and depolarizing) or it certainly has a coherent contribution (between upper-bound and 1).
