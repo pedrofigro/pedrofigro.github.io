@@ -84,21 +84,6 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Debug list repository and _posts before build 🔍
-        run: |
-          echo "---- listing repo root ----"
-          ls -la
-          echo "---- listing _posts directory ----"
-          if [ -d _posts ]; then
-            ls -la _posts || true
-            echo "---- show top of each post (first 40 lines) ----"
-            for f in _posts/*; do
-              echo "---- $f ----"
-              head -n 40 "$f" || true
-            done
-          else
-            echo "_posts directory not found"
-          fi
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade nbconvert
@@ -110,24 +95,6 @@ jobs:
         with:
           name: site
           path: _site
-      - name: List generated _site files 📋
-        if: always()
-        run: |
-          echo "---- _site file list (first 200 lines) ----"
-          if [ -d _site ]; then
-            find _site -type f | sed -n '1,200p'
-          else
-            echo "_site directory not found"
-          fi
-          echo "---- check blog folder ----"
-          if [ -d _site/blog ]; then
-            echo "_site/blog exists. Listing files:"
-            find _site/blog -type f | sed -n '1,200p'
-            echo "---- head of _site/blog/index.html (first 200 lines) ----"
-            head -n 200 _site/blog/index.html || true
-          else
-            echo "_site/blog not found"
-          fi
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
