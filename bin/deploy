@@ -17,8 +17,6 @@ while [[ $# > 0 ]]; do
         echo $USAGE_MSG
         exit 0
         ;;
-        -u|--user)
-        ;;
         -s|--src)
         SRC_BRANCH="$2"
         shift
