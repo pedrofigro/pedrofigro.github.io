@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pedrofigro.github.iopedrofigro/sitemap.xml
+Sitemap: https://pedrofigro.github.io/sitemap.xml
