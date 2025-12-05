@@ -19,21 +19,6 @@ pagination:
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
-{% comment %} Debug: show whether paginator was created during build. Remove after debugging. {% endcomment %}
-{% if paginator %}
-  <p style="background:#fffbcc;padding:8px;border:1px solid #f0e68c">DEBUG: paginator present — paginator.posts size = {{ paginator.posts | size }}</p>
-{% else %}
-  <p style="background:#ffecec;padding:8px;border:1px solid #f5c6cb">DEBUG: paginator NOT present. page.pagination.enabled = {{ page.pagination.enabled }}</p>
-{% endif %}
-{% comment %} Extra debug: show site.posts contents (size and first 10 titles). Remove after debugging. {% endcomment %}
-<div style="background:#eef;padding:8px;border:1px solid #ccd;margin-top:8px">
-  <p>DEBUG site.posts size = {{ site.posts | size }}</p>
-  <ul>
-  {% for p in site.posts limit:10 %}
-    <li>{{ p.date | date: "%Y-%m-%d" }} — {{ p.title }} {% if p.published == false %}(published=false){% endif %}{% if p.draft %}(draft){% endif %}</li>
-  {% endfor %}
-  </ul>
-</div>
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
