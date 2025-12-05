@@ -84,7 +84,7 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Debug: list repository and _posts before build 🔍
+      - name: Debug list repository and _posts before build 🔍
         run: |
           echo "---- listing repo root ----"
           ls -la
