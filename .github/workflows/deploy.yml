@@ -84,6 +84,21 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Debug: list repository and _posts before build 🔍
+        run: |
+          echo "---- listing repo root ----"
+          ls -la
+          echo "---- listing _posts directory ----"
+          if [ -d _posts ]; then
+            ls -la _posts || true
+            echo "---- show top of each post (first 40 lines) ----"
+            for f in _posts/*; do
+              echo "---- $f ----"
+              head -n 40 "$f" || true
+            done
+          else
+            echo "_posts directory not found"
+          fi
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade nbconvert
