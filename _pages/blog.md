@@ -19,6 +19,12 @@ pagination:
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
+{% comment %} Debug: show whether paginator was created during build. Remove after debugging. {% endcomment %}
+{% if paginator %}
+  <p style="background:#fffbcc;padding:8px;border:1px solid #f0e68c">DEBUG: paginator present — paginator.posts size = {{ paginator.posts | size }}</p>
+{% else %}
+  <p style="background:#ffecec;padding:8px;border:1px solid #f5c6cb">DEBUG: paginator NOT present. page.pagination.enabled = {{ page.pagination.enabled }}</p>
+{% endif %}
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
