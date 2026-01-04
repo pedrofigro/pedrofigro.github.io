@@ -32,7 +32,9 @@ Related to these, RB outputs can contain subtler information about the average n
 
 The key point is that *minimally* processed data from RB —individual survival probabilities—can already indicate whether something could be more seriously wrong (non-exponential behavior, skewed distributions, big outliers). Moreover, the variance of these probabilities at each sequence length is related to the purity of the outputs, which in turn provides qualitative insight into the [*unitarity*](https://arxiv.org/abs/1503.07865)—a measure of how unitary the noise channel is.  
 
-This matters because it affects how much confidence one can place in the reported fidelity. Importantly, I’m not referring to the uncertainty in the final fitted number (which depends on the fitting procedure and its assumptions). Rather, I mean the uncertainty inherent in each average point at every chosen sequence length. An intuitive way of thinking about this is that *i*) the spread of individual survival probabilities at fixed sequence length relates to the variance of the survival probabilities given your random Clifford sequence samples, which in turn *ii*) relates to how much the output states are getting probabilistically mixed, which then *iii*) roughly points to how *non-unitary* or *dissipative* the noise is.
+This matters because it affects how much confidence one can place in the reported fidelity. One example is Interleaved Randomised Benchmarking, where the final average fidelity of a fixed gate is estimated using a couple of RB experiments. In this case, one can get nonsensical results such as fidelities going above 100% if this base confidence is low to begin with.
+
+Importantly, I’m not referring to the uncertainty in the final fitted number (which depends on the fitting procedure and its assumptions). Rather, I mean the uncertainty inherent in each average point at every chosen sequence length. An intuitive way of thinking about this is that *i*) the spread of individual survival probabilities at fixed sequence length relates to the variance of the survival probabilities given your random Clifford sequence samples, which in turn *ii*) relates to how much the output states are getting probabilistically mixed, which then *iii*) roughly points to how *non-unitary* or *dissipative* the noise is.
 
 ---
 
@@ -68,7 +70,7 @@ The principle is simple: fidelity should decay linearly with the number of inter
 
 ---
 
-## Why coherence matters
+## Why the coherence of noise matters
 
 Ironically, when survival probability distributions are presented at several sequence lengths, they often resemble the coherent case. This is significant because coherence in noise impacts:  
 1. **Fault-tolerance thresholds**  
